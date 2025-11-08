@@ -5,8 +5,9 @@ const calcInput = document.getElementById(calcInput);
 
 function aprekins() {
 
-    let radiuss = document.getElementById("raiduss");
+    let radiuss = document.getElementById("radiuss");
     let circumference = 2 * PI * radiuss
-    let value = calcInput
+
+    addEventListener(innerHTML, aprekins.circumference)
 
 }
